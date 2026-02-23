@@ -1,3 +1,4 @@
+#MULTIPLE INHERITANCE
 class Father:
     def skill1(self):
         print("Leadership")
